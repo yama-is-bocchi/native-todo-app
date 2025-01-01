@@ -13,6 +13,9 @@
         "**/.gitignore/**"
     ],
     "words": [
-        "devcontainer"
+        "devcontainer",
+        "xlink",
+        "Avenir",
+        "iconify"
     ]
 }
