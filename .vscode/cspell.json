@@ -10,7 +10,7 @@
         "**/go.mod",
         "**/go.sum",
         "**/vendor/**",
-        "**/.golangci.yaml"
+        "**/.gitignore/**"
     ],
     "words": [
         "devcontainer"
