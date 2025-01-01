@@ -8,8 +8,8 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "golang.go",
-                "biomejs.biome"
+                "biomejs.biome",
+                "streetsidesoftware.code-spell-checker"
             ]
         }
     }

@@ -10,10 +10,12 @@
         "**/go.mod",
         "**/go.sum",
         "**/vendor/**",
-        "**/.golangci.yaml"
+        "**/.gitignore/**"
     ],
     "words": [
         "devcontainer",
-        "levyxx"
+        "xlink",
+        "Avenir",
+        "iconify"
     ]
 }
