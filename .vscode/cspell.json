@@ -13,7 +13,6 @@
         "**/.golangci.yaml"
     ],
     "words": [
-        "devcontainer",
-        "levyxx"
+        "devcontainer"
     ]
 }
